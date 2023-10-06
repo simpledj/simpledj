@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @simpledj currently studying a Bachelor of Science in Information Technology
+- 👋 Hi, I’m @simpledj a fresh Bachelor of Science in Information Technology graduate.
 - 👀 I’m interested in web development and android app development
 - 📫 How to reach me, email: djvillanueva3030@gmail.com; LinkedIn: www.linkedin.com/in/dj-villanueva-b754a1197/
 
